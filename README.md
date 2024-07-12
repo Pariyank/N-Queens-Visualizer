@@ -1,1 +1,1 @@
-N-Queens Visualizer
+The N-Queens problem is a classic puzzle in which the objective is to place N chess queens on an N×N chessboard so that no two queens threaten each other. This means that no two queens can be in the same row, column, or diagonal. The problem is commonly solved using backtracking, where solutions are built incrementally and invalid positions are discarded. The N-Queens problem demonstrates concepts of combinatorial optimization and constraint satisfaction.
